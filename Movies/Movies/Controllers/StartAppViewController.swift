@@ -35,7 +35,7 @@ class StartAppViewController: UIViewController {
     
     lazy var startButton: UIButton = {
         let button = UIButton()
-        button.setTitle("Botton nigga", for: .normal)
+        button.setTitle("Button", for: .normal)
         button.backgroundColor = .darkGray
         button.setTitleColor(.white, for: .normal)
         button.translatesAutoresizingMaskIntoConstraints = false
